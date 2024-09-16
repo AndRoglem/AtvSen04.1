@@ -1,0 +1,14 @@
+C:\Users\rogerio.nascimento\Documents\Senai-ad\_Senai\AtvSen\bin\Debug\net8.0\AtvSen.exe
+C:\Users\rogerio.nascimento\Documents\Senai-ad\_Senai\AtvSen\bin\Debug\net8.0\AtvSen.deps.json
+C:\Users\rogerio.nascimento\Documents\Senai-ad\_Senai\AtvSen\bin\Debug\net8.0\AtvSen.runtimeconfig.json
+C:\Users\rogerio.nascimento\Documents\Senai-ad\_Senai\AtvSen\bin\Debug\net8.0\AtvSen.dll
+C:\Users\rogerio.nascimento\Documents\Senai-ad\_Senai\AtvSen\bin\Debug\net8.0\AtvSen.pdb
+C:\Users\rogerio.nascimento\Documents\Senai-ad\_Senai\AtvSen\obj\Debug\net8.0\AtvSen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rogerio.nascimento\Documents\Senai-ad\_Senai\AtvSen\obj\Debug\net8.0\AtvSen.AssemblyInfoInputs.cache
+C:\Users\rogerio.nascimento\Documents\Senai-ad\_Senai\AtvSen\obj\Debug\net8.0\AtvSen.AssemblyInfo.cs
+C:\Users\rogerio.nascimento\Documents\Senai-ad\_Senai\AtvSen\obj\Debug\net8.0\AtvSen.csproj.CoreCompileInputs.cache
+C:\Users\rogerio.nascimento\Documents\Senai-ad\_Senai\AtvSen\obj\Debug\net8.0\AtvSen.dll
+C:\Users\rogerio.nascimento\Documents\Senai-ad\_Senai\AtvSen\obj\Debug\net8.0\refint\AtvSen.dll
+C:\Users\rogerio.nascimento\Documents\Senai-ad\_Senai\AtvSen\obj\Debug\net8.0\AtvSen.pdb
+C:\Users\rogerio.nascimento\Documents\Senai-ad\_Senai\AtvSen\obj\Debug\net8.0\AtvSen.genruntimeconfig.cache
+C:\Users\rogerio.nascimento\Documents\Senai-ad\_Senai\AtvSen\obj\Debug\net8.0\ref\AtvSen.dll
